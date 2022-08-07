@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @Davidesarrolloweb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'm interested in the world of programming and technology in general.
+- 👨🏽‍💻 I've done a full stack developer bootcamp, but I'm focused as a Frontend developer
+- 📖 I’m currently learning HTML, CSS, JS, Frameworks, bookstores and any technology that can advance and improve me.
+- 💞️ All collaboration is always welcome.
+- 📫 How to reach me: 
+     Twitter: https://twitter.com/m_sdavid
+     LinkedIn: linkedin.com/in/david-muñoz-sanchez-full-stack-developer
 
 <!---
-Davidesarrolloweb/Davidesarrolloweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Davidesarrolloweb/Davidesarrolloweb is a ✨ special ✨ repository because I try to grow day by day, contribute to the community and enjoy this wonderful profession.
 --->
